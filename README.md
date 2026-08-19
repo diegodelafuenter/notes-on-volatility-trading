@@ -39,22 +39,35 @@ The repository is open-ended and grows as new notes reach publication quality.
 | Note | Status |
 |:-----|:------:|
 | Probability problems, generalized | ✅ Complete |
+| Probability trading applications | ✅ Complete |
 | ATM approximations | ✅ Complete |
+|  |
 
 ## Contents
 
-**Volume I — Probability** *(complete, ~110 pp)*
+**Volume I — Probability** *(complete)*
 - 📘 [`generalized_probability_problems/`](01-generalized_probability_problems/): sixteen problem-driven chapters
   on exchangeability, order statistics, reinforcement processes,
   optimal stopping, pattern hitting times, random walks, the arcsine
   law, extreme values on discrete sequences, growth-optimal betting,
   and information theory.
 
+- 📘 [`trading_applications/`](01-generalized_probability_problems/trading_applications/trading_applications):
+  applications of probability concepts to quantitative trading, with an
+  emphasis on expected value, risk, strategy design, and financial decision
+  making.
+
 **Volume II — ATM approximations** *(complete)*
-- 📗 [`options/ATM-approximations/`](options/02-ATM-approximations/):
+- 📗 [`/ATM-approximations/`](02-ATM-approximations/ATM-approximations):
   closed-form expressions and error bounds for at-the-money options,
   useful as trader-grade intuition for short-dated Black–Scholes
   prices.
+
+**Volume III — Variance swaps** *(complete)*
+- 📙 [`delta_hedge_straddle_and_variance_swap/`](03-variance-swaps/delta_hedge_straddle_and_variance_swap):
+  an analysis of the relationship between a delta-hedged straddle and a
+  variance swap, including the role of realized variance, implied volatility,
+  gamma exposure, discrete hedging, and transaction costs.
 
 ## Repository structure
 
@@ -62,11 +75,24 @@ The repository is open-ended and grows as new notes reach publication quality.
 Notes-on-Volatility-Trading/
 ├── README.md
 ├── LICENSE
-├── pdf/
-│   ├── 01_Probability_Problems.pdf
-│   ├── 02_ATM_Approximations.pdf
-│   └── ...
-└── images/
+│
+├── 01-generalized-probability-problems/
+│   ├── README.md
+│   ├── probability-problems.pdf
+│   └── applications-to-trading/
+│       ├── README.md
+│       └── applications-to-trading.pdf
+│
+├── 02-ATM-approximations/
+│   ├── README.md
+│   └── ATM-approximations.pdf
+│
+├── 03-delta-hedged-straddle-vs-variance-swap/
+│   ├── README.md
+│   └── delta-hedged-straddle-vs-variance-swap.pdf
+│
+├── images/
+└── ...
 ```
 
 ## References
