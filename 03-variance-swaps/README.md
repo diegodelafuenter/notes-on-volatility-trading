@@ -10,8 +10,8 @@ picture breaks on a real book.
 ## The question
 
 If a continuously delta-hedged straddle earns P&L tied to realized variance,
-why isn't it simply a variance swap? The answer is one word: *weighting*, and
-the note develops the full chain behind it, from a single option to the
+why isn't it simply a variance swap? The answer is one word: **weighting**.
+The notes develop the full chain behind it, from a single option to the
 variance swap and its variants.
 
 ## What it covers
