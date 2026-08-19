@@ -157,3 +157,14 @@ cold: start with **records and the constant *e*** — it introduces
 exchangeability, the mechanism that recurs across the volume — then
 jump to whichever problem sounds most interesting. Cross-references
 are explicit where one chapter's tools are used by another.
+
+### Trading applications companion
+
+For readers whose interest is primarily practical, a shorter
+companion document collects every trading application from the
+sixteen chapters into a single 26-page reference. Each section states
+the mathematical result in compact form, develops the trading
+applications, and points back to the corresponding chapter of the
+main volume for the underlying derivations.
+
+→ [`trading_applications/`](trading_applications/)
