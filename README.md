@@ -41,7 +41,7 @@ The repository is open-ended and grows as new notes reach publication quality.
 | Probability problems, generalized | ✅ Complete |
 | Probability trading applications | ✅ Complete |
 | ATM approximations | ✅ Complete |
-|  |
+| Skew risk premium | ✅ Complete |
 
 ## Contents
 
@@ -69,6 +69,13 @@ The repository is open-ended and grows as new notes reach publication quality.
   variance swap, including the role of realized variance, implied volatility,
   gamma exposure, discrete hedging, and transaction costs.
 
+**Volume IV — Skew and higher moments** *(complete)*
+- 📙 [`skew_risk_premium/`](04-the-skew-risk-premium/skew_risk_premium):
+  an analysis of the skew risk premium, the gap between implied and realized
+  asymmetry, including model-free extraction with BKM, noise in realized skew,
+  trading the premium through risk reversals, and where the moment ladder breaks
+  for variance, skew and kurtosis.
+  
 ## Repository structure
 
 ```
