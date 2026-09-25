@@ -98,6 +98,9 @@ Notes-on-Volatility-Trading/
 │   ├── README.md
 │   └── delta-hedged-straddle-vs-variance-swap.pdf
 │
+├── 04-the-skew-risk-premium/
+│   ├── README.md
+│   └── skew_risk_premium.pdf
 ├── images/
 └── ...
 ```
