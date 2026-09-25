@@ -41,6 +41,7 @@ The repository is open-ended and grows as new notes reach publication quality.
 | Probability problems, generalized | ✅ Complete |
 | Probability trading applications | ✅ Complete |
 | ATM approximations | ✅ Complete |
+| Variance swaps | ✅ Complete |
 | Skew risk premium | ✅ Complete |
 
 ## Contents
