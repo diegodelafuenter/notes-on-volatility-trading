@@ -43,6 +43,7 @@ The repository is open-ended and grows as new notes reach publication quality.
 | ATM approximations | ✅ Complete |
 | Delta hedged straddles and variance swaps | ✅ Complete |
 | The skew risk premium | ✅ Complete |
+| Event volatility | ✅ Complete |
 
 ## Contents
 
