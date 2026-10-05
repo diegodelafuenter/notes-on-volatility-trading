@@ -76,7 +76,11 @@ The repository is open-ended and grows as new notes reach publication quality.
   asymmetry, including model-free extraction with BKM, noise in realized skew,
   trading the premium through risk reversals, and where the moment ladder breaks
   for variance, skew and kurtosis.
-  
+
+**Volume V — Event volatility** *(in progress)*
+- 📙 [`event_volatility/`](05-event-volatility/event_volatility): pricing an event from the
+  term structure, why the implied-volatility path around it cannot be traded, and how a
+  naked straddle and a calendar spread trade an overpriced event.
 ## Repository structure
 
 ```
@@ -102,6 +106,10 @@ Notes-on-Volatility-Trading/
 ├── 04-the-skew-risk-premium/
 │   ├── README.md
 │   └── skew_risk_premium.pdf
+│
+├── 05-event-volatility/
+│   ├── README.md
+│   └── event_volatility.pdf
 ├── images/
 └── ...
 ```
